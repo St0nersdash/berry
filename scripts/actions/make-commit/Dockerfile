@@ -1,4 +1,4 @@
-FROM alpine:3.16
+FROM alpine:3
 
 LABEL "com.github.actions.name"="make-commit"
 LABEL "com.github.actions.description"="Generates a commit with the given message"
