@@ -13,9 +13,9 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
-    "@yarnpkg/nm": "workspace:^",
+    "@yarnpkg/nm": "2.4.1",
     "clipanion": "^3.2.0-rc.10",
     "tslib": "^2.4.0"
   },
