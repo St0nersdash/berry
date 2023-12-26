@@ -10,7 +10,7 @@
   "dependencies": {
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/plugin-pnp": "workspace:^",
-    "@yarnpkg/plugin-stage": "workspace:^",
+    "@yarnpkg/plugin-stage": "2.1.0",
     "clipanion": "^3.2.0-rc.10",
     "p-limit": "^2.2.0",
     "tslib": "^2.4.0"
