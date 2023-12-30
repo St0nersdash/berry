@@ -8,8 +8,8 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/cli": "2.1.0",
-    "@yarnpkg/core": "2.1.0",
+    "@yarnpkg/cli": "workspace:^",
+    "@yarnpkg/core": "workspace:^",
     "@yarnpkg/fslib": "workspace:^",
     "clipanion": "^3.2.0-rc.10",
     "globby": "^11.0.1",
