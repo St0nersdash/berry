@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@yarnpkg/cli": "workspace:^",
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
     "clipanion": "^3.2.0-rc.10",
     "globby": "^11.0.1",
