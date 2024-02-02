@@ -15,7 +15,7 @@
     "@mdx-js/react": "^1.6.22",
     "@reach/router": "^1.1.1",
     "@rehooks/component-size": "^1.0.3",
-    "@strictsoftware/typedoc-plugin-monorepo": "patch:@strictsoftware/typedoc-plugin-monorepo@^0.2.2#./.patches/@strictsoftware/typedoc-plugin-monorepo.patch",
+    "@strictsoftware/typedoc-plugin-monorepo": "0.4.2",
     "@types/bytes": "^3.1.1",
     "@types/marked": "^1.1.0",
     "@types/prop-types": "^15.7.4",
