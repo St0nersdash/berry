@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@yarnpkg/monorepo": "workspace:^",
-    "@yarnpkg/pnp": "workspace:^"
+    "@yarnpkg/pnp": "2.1.0"
   },
   "scripts": {
     "postpack": "rm -rf lib",
