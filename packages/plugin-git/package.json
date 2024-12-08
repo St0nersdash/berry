@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/git-url-parse": "^9.0.0",
     "@types/lodash": "^4.14.136",
-    "@yarnpkg/core": "workspace:^"
+    "@yarnpkg/core": "2.2.0"
   },
   "repository": {
     "type": "git",
