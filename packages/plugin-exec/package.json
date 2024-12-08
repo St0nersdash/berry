@@ -15,8 +15,8 @@
     "@yarnpkg/core": "workspace:^"
   },
   "devDependencies": {
-    "@yarnpkg/builder": "workspace:^",
-    "@yarnpkg/core": "workspace:^"
+    "@yarnpkg/builder": "2.1.0",
+    "@yarnpkg/core": "2.2.0"
   },
   "scripts": {
     "postpack": "rm -rf lib",
