@@ -46,10 +46,10 @@
   },
   "devDependencies": {
     "@types/semver": "^7.1.0",
-    "@yarnpkg/builder": "workspace:^",
+    "@yarnpkg/builder": "2.1.0",
     "@yarnpkg/monorepo": "workspace:^",
-    "@yarnpkg/pnpify": "workspace:^",
-    "micromatch": "^4.0.2"
+    "@yarnpkg/pnpify": "2.2.0",
+    "micromatch": "^4.0.8"
   },
   "peerDependencies": {
     "@yarnpkg/core": "workspace:^"
