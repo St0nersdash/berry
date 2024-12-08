@@ -27,10 +27,10 @@
     "@types/lodash": "^4.14.136",
     "@types/react": "^16.8.0",
     "@types/semver": "^7.1.0",
-    "@yarnpkg/builder": "workspace:^",
-    "@yarnpkg/cli": "workspace:^",
-    "@yarnpkg/core": "workspace:^",
-    "@yarnpkg/plugin-git": "workspace:^"
+    "@yarnpkg/builder": "2.1.0",
+    "@yarnpkg/cli": "2.1.0",
+    "@yarnpkg/core": "2.2.0",
+    "@yarnpkg/plugin-git": "2.1.0"
   },
   "scripts": {
     "postpack": "rm -rf lib",
