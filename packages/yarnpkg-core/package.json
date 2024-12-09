@@ -48,7 +48,7 @@
     "@types/tar": "^4.0.4",
     "@types/tunnel": "^0.0.0",
     "@yarnpkg/cli": "2.1.0",
-    "@yarnpkg/plugin-link": "workspace:^",
+    "@yarnpkg/plugin-link": "2.1.0",
     "@yarnpkg/plugin-npm": "2.1.0",
     "@yarnpkg/plugin-pnp": "4.0.0",
     "comment-json": "^2.2.0",
