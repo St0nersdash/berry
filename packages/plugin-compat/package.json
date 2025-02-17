@@ -18,12 +18,12 @@
   "devDependencies": {
     "@types/lodash-es": "4.17.4",
     "@types/resolve": "^1.17.1",
-    "@yarnpkg/cli": "workspace:^",
+    "@yarnpkg/cli": "2.1.0",
     "@yarnpkg/core": "workspace:^",
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/monorepo": "workspace:^",
     "@yarnpkg/plugin-npm": "workspace:^",
-    "@yarnpkg/plugin-patch": "workspace:^",
+    "@yarnpkg/plugin-patch": "2.1.0",
     "resolve": "^1.17.0",
     "semver": "^7.1.2"
   },
