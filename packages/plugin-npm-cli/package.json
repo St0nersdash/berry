@@ -26,10 +26,10 @@
     "@npm/types": "^1.0.1",
     "@types/micromatch": "^4.0.1",
     "@types/semver": "^7.1.0",
-    "@yarnpkg/cli": "workspace:^",
+    "@yarnpkg/cli": "2.1.0",
     "@yarnpkg/core": "workspace:^",
     "@yarnpkg/plugin-npm": "workspace:^",
-    "@yarnpkg/plugin-pack": "workspace:^"
+    "@yarnpkg/plugin-pack": "2.1.0"
   },
   "repository": {
     "type": "git",
