@@ -29,9 +29,9 @@
     "@types/lodash": "^4.14.136",
     "@types/micromatch": "^4.0.1",
     "@types/semver": "^7.1.0",
-    "@yarnpkg/cli": "workspace:^",
-    "@yarnpkg/core": "workspace:^",
-    "@yarnpkg/plugin-git": "workspace:^"
+    "@yarnpkg/cli": "2.1.0",
+    "@yarnpkg/core": "2.1.0",
+    "@yarnpkg/plugin-git": "2.1.0"
   },
   "repository": {
     "type": "git",
