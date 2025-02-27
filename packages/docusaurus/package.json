@@ -36,7 +36,7 @@
     "tslib": "^2.4.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.1.0",
+    "@docusaurus/module-type-aliases": "^3.0.0",
     "@docusaurus/theme-classic": "^2.1.0",
     "@docusaurus/theme-common": "^2.1.0",
     "@tsconfig/docusaurus": "^1.0.5",
