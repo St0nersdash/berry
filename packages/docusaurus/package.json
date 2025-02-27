@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.1.0",
-    "@docusaurus/theme-classic": "^2.1.0",
+    "@docusaurus/theme-classic": "^3.6.0",
     "@docusaurus/theme-common": "^2.1.0",
     "@tsconfig/docusaurus": "^1.0.5",
     "@types/markdown-it": "^12.2.3",
