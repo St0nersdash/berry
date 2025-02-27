@@ -18,8 +18,8 @@
   },
   "devDependencies": {
     "@yarnpkg/builder": "2.1.0",
-    "@yarnpkg/cli": "workspace:^",
-    "@yarnpkg/core": "workspace:^"
+    "@yarnpkg/cli": "2.1.0",
+    "@yarnpkg/core": "2.1.0"
   },
   "scripts": {
     "postpack": "rm -rf lib",
