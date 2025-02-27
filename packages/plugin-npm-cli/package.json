@@ -27,7 +27,7 @@
     "@types/micromatch": "^4.0.1",
     "@types/semver": "^7.1.0",
     "@yarnpkg/cli": "2.1.0",
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/plugin-npm": "2.1.0",
     "@yarnpkg/plugin-pack": "2.1.0"
   },
