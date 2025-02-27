@@ -12,7 +12,7 @@
     "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
     "clipanion": "^3.2.0-rc.10",
-    "globby": "^11.0.1",
+    "globby": "^14.1.0",
     "micromatch": "^4.0.6",
     "p-limit": "^2.2.0",
     "tslib": "^2.4.0",
