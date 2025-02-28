@@ -22,7 +22,7 @@
     "@types/micromatch": "^4.0.1",
     "@types/tar-stream": "1.6.0",
     "@yarnpkg/cli": "workspace:^",
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/plugin-stage": "2.1.0"
   },
   "repository": {
