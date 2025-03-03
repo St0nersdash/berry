@@ -30,7 +30,7 @@
     "@types/semver": "^7.1.0",
     "@yarnpkg/builder": "2.1.0",
     "@yarnpkg/cli": "2.1.0",
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/plugin-essentials": "2.1.0"
   },
   "repository": {
