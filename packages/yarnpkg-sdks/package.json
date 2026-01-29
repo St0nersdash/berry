@@ -17,14 +17,14 @@
     "chalk": "^3.0.0",
     "clipanion": "^3.2.0-rc.10",
     "comment-json": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
     "@types/comment-json": "^1.1.1",
     "@types/lodash": "^4.14.136",
     "@yarnpkg/monorepo": "workspace:^",
-    "@yarnpkg/pnp": "workspace:^"
+    "@yarnpkg/pnp": "2.1.0"
   },
   "scripts": {
     "postpack": "rm -rf lib",
