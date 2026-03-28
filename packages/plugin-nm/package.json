@@ -10,7 +10,7 @@
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/nm": "2.4.1",
-    "@yarnpkg/parsers": "workspace:^",
+    "@yarnpkg/parsers": "2.1.0",
     "@yarnpkg/plugin-pnp": "2.1.0",
     "@yarnpkg/pnp": "2.1.0",
     "@zkochan/cmd-shim": "^5.1.0",
