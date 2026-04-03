@@ -13,7 +13,7 @@
     "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
-    "@yarnpkg/parsers": "workspace:^",
+    "@yarnpkg/parsers": "2.1.0",
     "@yarnpkg/plugin-compat": "2.1.0",
     "@yarnpkg/plugin-constraints": "2.1.0",
     "@yarnpkg/plugin-dlx": "2.1.0",
